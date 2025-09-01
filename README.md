@@ -11,10 +11,7 @@ This repository contains my submission for **DT Fellowship Simulation Assignment
 - **Funnel_Chart.png** → Visual representation of funnel conversion rates.  
 - **Dashboard_Screenshot.png** → Combined view of funnel chart + diagnosis table.  
 
-## Visuals Preview
-
-### Funnel Chart
-![Funnel Chart](Funnel_Chart.png)
+## Visuals Preview 
 
 ### Dashboard Screenshot
 ![Dashboard Screenshot](Dashboard_Screenshot.png)
